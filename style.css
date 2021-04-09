@@ -1,0 +1,98 @@
+#welcome{
+    background: linear-gradient(#ff0505 0%, #33ff05 100% );
+    height: 600px;
+}
+#about{
+    background: linear-gradient(#163ec4 0%, #0bd4db 100% );
+    height: 400px;
+    padding: 50px;
+}
+#apps{
+    background: linear-gradient(#f5f107 0%, #33ff05 100% );
+    height: 750px;
+    padding: 50px;
+}
+#games{
+    background: linear-gradient(#abaa95 0%, #0d0d0c 100% );
+    height: 600px;
+    padding: 50px;
+}
+#fav_videos{
+    background: linear-gradient(#880bdb 0%, #e864d2 100% );
+    height: 750px;
+    padding: 50px;
+}
+#chatbot{
+    background: linear-gradient( white 0%, #f58f2a 100% );
+    height: 600px;
+    padding: 50px;
+}
+#location{
+    background: linear-gradient(aqua 0%, #0cede9 100% );
+    height: 600px;
+    padding: 50px;
+}
+#contact{
+    background: linear-gradient(white 0%,#c8dbdb 100% );
+    height: 300px;
+    padding: 50px;
+}
+.head{
+    font-family: 'Cormorant Unicase', serif;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 35px;
+}
+body{
+    text-align: center;
+}
+#shreyas{
+    height: 250px;
+    border-radius: 150px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: thick;
+    
+}
+#shreyas:hover{
+    transform: scale(1.1)
+}
+#myself{
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+}
+#intro{
+    font-family: 'Pacifico', cursive;    
+}
+#intro{
+  font-family: 'Pacifico', cursive;  
+}
+#name{
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+    font-weight:700;
+}
+.org:hover{
+    transform: scale(1.2);
+}
+.ul1{
+    list-style: none;
+    top: 0px;
+    margin-top: 0px;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    background-color: black;
+    
+}
+.option{
+    display: inline;
+    padding: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.option:hover{
+    font-size: 20px;
+    color: darkred;
+}
